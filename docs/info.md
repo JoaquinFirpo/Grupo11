@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Dllojfnwrnf
+Contraseña   11100000
 
 ## How to test
 
-Fvyvyfuy
+probar con distintas contraseñas
 
 ## External hardware
 
-Ljnjnjn
+List external hardware in your project (e.g. PMOD, LED display, etc), if any
